@@ -64,4 +64,3 @@ func start(addr string, dsn string) {
 
 
 
-//Как-то так!
